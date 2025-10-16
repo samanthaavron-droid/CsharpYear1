@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SQlite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5eaeac34b15d3767596cc3a13dc2c05cc21ac91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b0cdf8382024d5edc346668bb05c27a76179365")]
 [assembly: System.Reflection.AssemblyProductAttribute("SQlite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SQlite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
