@@ -123,6 +123,10 @@ namespace DatabaseFood
 
                     case "quit":
                         return;
+
+                    default:
+                        Console.WriteLine("Unknown command");
+                        break;
                 }
             }
         }
